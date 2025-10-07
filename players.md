@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+Joe
+I'm doing this for the contriutions on my profile
 
-Statement 2
+I'm doing this for the contriutions on my profile
 
-Statement 3
+I'm not doing this for the contriutions on my profile
